@@ -13,7 +13,7 @@ From Dexcom's filings, they refer to the sensor as a *continuous analyte sensor*
 
 **The transmitter likely contains the following technology, based on preliminary findings and research:**
 1. Two SR1120W (silver oxide) batteries wired in parallel (1.5V nominal)
-2. A Low-Energy (LE) Bluetooth transmitter IC with antenna (note they may be using a custom SoC, perhaps based on Nordic Semiconductor's N52832/nRF52832)
+2. A Low-Energy (LE) Bluetooth transmitter IC with antenna (note they may be using a custom SoC, perhaps based on Nordic Semiconductor's [N52832/nRF52832](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF52832))
 3. An IC responsible for transcoding analog data from sensor into digital data to be transmitted by Bluetooth IC (this may not be required if this is integrated into the SoC from 2.)
 4. A buck converter IC to power the Bluetooth transmitter IC, as it will not run on 1.5V.
 
