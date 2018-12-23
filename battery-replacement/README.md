@@ -1,3 +1,6 @@
+**To guide your battery replacement, I have created an annotated album of high-quality images found in the *guide* folder.**
+
+
 **STL Print Instructions:**
 
 At least 80% infill
