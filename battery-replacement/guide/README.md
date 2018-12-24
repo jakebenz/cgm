@@ -2,6 +2,9 @@
 -
 
 1. A **tool to remove material from the top of the transmitter**. The cheapest way to do this is to buy a bench grinder ($40 at Harbor Freight) with an abrasive wheel.
+
+![Abrasive wheel on bench grinder from Harbor Freight](https://github.com/jakebenz/cgm-media/blob/master/battery-replacement-album/IMG_6289.JPG)
+
 2. **Replacement batteries**. Renata 389 is a direct replacement, but you may use SR44 (silver oxide) or LR44 (alkaline). The STL that I provide is designed to function with a Renata 389 or identically-sized 1.5V button cell battery. **You will need two batteries per transmitter**.
 3. Some sort of **epoxy or silicone sealant** to prevent water ingress following battery replacement
 4. A **small pointed tool** to stab the spent batteries.
