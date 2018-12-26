@@ -87,6 +87,8 @@ Test the battery voltage across the two terminals. It should read at least 1.55V
 
 Get your epoxy ready and mix it.
 
+***Optional step***: Spot weld battery tabs onto positive terminal of batteries. 800A/2V/40ms works well. I've found that a bent battery terminal to make contact is good enough, but likely is higher resistance than a spot welded connection. I have not noticed a difference in battery life or transmitter temperature between the two methods.
+
 ![Cover the batteries and terminals to prevent water ingress](https://github.com/jakebenz/cgm-media/blob/master/battery-replacement-album/IMG_6392.JPG)
 
 Cover the batteries and terminals to prevent water ingress.
@@ -97,6 +99,6 @@ Cover the batteries and terminals to prevent water ingress.
 
 Snap the 3D-printed cover on. If the material stresses too much, it may crack. Just cover the crack in epoxy if this happens.
 
-**Step 4: Reset transmitter or pair with XDrip/Spike/Loop**
+**Step 4: Reset transmitter clock or pair with XDrip/Spike/Loop**
 -
 
