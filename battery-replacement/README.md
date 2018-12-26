@@ -1,4 +1,4 @@
-**To guide your battery replacement, I have created an annotated album of high-quality images found in the *guide* folder.**
+**To guide your battery replacement, I have created an annotated album of high-quality images found in the *[guide](https://github.com/jakebenz/cgm/tree/master/battery-replacement/guide)* folder.**
 
 
 **STL Print Instructions:**
