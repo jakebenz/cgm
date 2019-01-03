@@ -5,8 +5,9 @@
 
 The Dexcom G4/G5 Sensor (hereafter "Sensor") is a medical device that comprises several components necessary for its utility.
 
-
-1. **Adhesive fleece**, used to adhere to the skin.
+![Adhesive fleece et al.](https://github.com/jakebenz/cgm-media/raw/master/sensor/IMG_6412.JPG)
+![Adhesive fleece et al.](https://github.com/jakebenz/cgm-media/raw/master/sensor/IMG_6413.JPG)
+1. **Adhesive fleece**, used to adhere to the skin. Shown here still attached to the rest of the components.
 
 ![Sensing filament](https://github.com/jakebenz/cgm-media/raw/master/sensor/IMG_6411.JPG)
 2. **Sensing filament**, inserted subcutaneously to approximate blood glucose through measuring conductivity of interstitial fluid. Partially covered by a piece of shielding plastic—perhaps teflon.
